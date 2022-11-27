@@ -16,9 +16,9 @@ Our project is divided into 3 related parts
 1. Dashboard Analytics<br>
 Generate insights that become solutions to be followed up.<br>visit https://public.tableau.com/app/profile/raka.iskandar/viz/VisualisasiDataTSDN2022/Storyboard to see dashboard with interactive view.
 2. Computer Vision<br>
-Following up on the findings of the dashboard into a computer vision model<br>visit https://www.kaggle.com/code/rafkaip/orbit-cv/ to run or copy notebook.
+Following up on the findings of the dashboard into a computer vision model.<br>visit https://www.kaggle.com/code/rafkaip/orbit-cv/ to run or copy notebook.
 3. Web Apps<br>
-Implementing the computer vision model that has been made<br>visit https://orbit-padi-kita.herokuapp.com/ to browse the deployed website.
+Implementing the computer vision model that has been made.<br>visit https://orbit-padi-kita.herokuapp.com/ to browse the deployed website or visit https://github.com/raihanaiooo/PadiKita/tree/master to see the full source code.
 
 ## Our Winning Team
 <div style="text-align:center">
