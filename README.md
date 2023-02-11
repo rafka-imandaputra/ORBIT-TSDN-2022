@@ -22,6 +22,7 @@ Implementing the computer vision model that has been made.<br>visit https://orbi
 
 ## Our Winning Team
 <div style="text-align:center">
+<img src="https://i.ibb.co/qDcjQ2p/tsdn-workshop.jpg" alt="tsdn-workshop" border="0">
 <img src="https://i.ibb.co/W0TqCTz/Banner-Tim-ORBIT.png" alt="logo Orbit, SMKN 4 Bandung, dan Anggota Tim"/>
 </div>
 1. Rafka Imanda Putra | <a href="https://www.linkedin.com/in/rafka-imanda-putra/" target="_blank">LinkedIn</a><br>
